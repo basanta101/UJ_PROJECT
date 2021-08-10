@@ -1,0 +1,18 @@
+.outerWrapper {
+  height: 100vh;
+  display: flex;
+}
+
+.loginWrapper {
+  background: #aaa;
+  height: 400px;
+  width: 400px;
+  margin: auto;
+  padding: 16px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(#aaa, transparent);
+}
